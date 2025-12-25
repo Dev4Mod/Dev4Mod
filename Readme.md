@@ -20,7 +20,7 @@ Sou um desenvolvedor apaixonado por criar soluções criativas e eficientes, exp
   <!-- Linguagens mais usadas -->
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev4Mod&layout=compact&theme=tokyonight" />
 
-<-- Gráfico de commits -->
+<!-- Gráfico de commits -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev4Mod&theme=tokyonight&utcOffset=3" />
 
 </div>
